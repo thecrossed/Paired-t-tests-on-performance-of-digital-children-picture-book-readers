@@ -3,8 +3,8 @@ In this project, I made two matrices illustrating paired t-test results(score di
 digital children picture book readers.
 
 The dataset contains 111,536 rows of user learning data unequally distributed on 72 digital books. The user page(sentence) score was 
-evaluated from a third-party service embedded in our program. Our content team planned to use this evaluation score as an indicator 
-to classify content difficulty levels. This analysis offered an overview for further research.
+evaluated from a third-party service embedded in our program. Our content team planned to use this score as an indicator 
+to classify content difficulty levels. This analysis offered an overview of the raw dataset for further research.
 
 My main steps are listed below: 
 1) collect initial data from our database with SQL commands;
